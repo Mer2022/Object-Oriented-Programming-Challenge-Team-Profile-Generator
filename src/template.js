@@ -34,7 +34,7 @@ const createTeam = (team) => {
     </div>
             `;
       };
-}
+
 // create the html for interns
 const createIntern = (intern) => {
     return `
@@ -53,3 +53,4 @@ const createIntern = (intern) => {
 </div>
         `;
   };
+}
